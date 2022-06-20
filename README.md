@@ -28,6 +28,7 @@ Setup inicial
     <br>- Criando uma conta no percy.io<br>
     - Criação do projeto<br>
     - Exportação do project token
+export PERCY_TOKEN=9093653493ac8694c82ed63658fb02063172dafa423d2d8aebada44b3bac59ef
 </details>
 
 ## Aula 3
